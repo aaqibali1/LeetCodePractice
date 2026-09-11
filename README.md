@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
@@ -60,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaqibali1/LeetCodePractice/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
