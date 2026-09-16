@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaqibali1/LeetCodePractice/tree/master/0001-two-sum) |
+| [0875-koko-eating-bananas](https://github.com/aaqibali1/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aaqibali1/LeetCodePractice/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/aaqibali1/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
